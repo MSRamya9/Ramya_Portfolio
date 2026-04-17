@@ -1,4 +1,4 @@
- 😊 Sai Ramya Sri Mamillapalli — Sotware Engineer 👩‍💻
+ 😊  Ramya  Mamillapalli — Sotware Engineer 👩‍💻
 
 Welcome to my personal **portfolio website**, designed to showcase my skills, experience, and projects as an aspiring **and Software Development Engineer**. Built with modern web design principles — including animated effects, responsive layouts, and interactive elements — this portfolio is crafted to reflect my technical strengths and passion for building impactful solutions.
 
